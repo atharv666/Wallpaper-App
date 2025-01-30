@@ -1,16 +1,10 @@
-# wallpaperapp
+# WallPaper App 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check out the Wallpaper App I have built using flutter.
+Features I implemented:
+✅ Custom App Icon & Flutter Native Splash Screen for a polished app launch
+✅ Fetching high-quality wallpapers dynamically using the Pexels API
+✅ Interactive UI with grid-based image listing
+✅ Tap to view in full screen with seamless transitions
+✅ Set as Wallpaper feature using flutter_wallpaper_manager
+✅ Load More Button to fetch additional images dynamically
